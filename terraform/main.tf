@@ -49,7 +49,7 @@ module "ctactive" {
   }
 
   custom_fields = {
-    group = "non-prod"
+    group = "non-prod-2"
   }
 
   account_customizations_name = "ctactive"
